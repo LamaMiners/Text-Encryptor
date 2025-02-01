@@ -8,7 +8,6 @@ As of now, only the Caesar Cipher is implemented, and there is no way to decrypt
 
 # Features to be added
 
-* Decryption
 * Vigenère Cipher
 * XOR Cipher
 * Substituition Cipher
