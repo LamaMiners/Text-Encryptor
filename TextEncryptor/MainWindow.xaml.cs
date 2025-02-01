@@ -23,7 +23,7 @@ public partial class MainWindow : Window
     private enum Mode
     {
         Caesar,
-        Blank1,
+        Vigenere,
         Blank2
     }
 
@@ -92,21 +92,32 @@ public partial class MainWindow : Window
 
     private void EncryptButton_Click(object sender, RoutedEventArgs e)
     {
-        int value = OpenShiftDialog();
+        Cipher cc = new Cipher();
+
+        int value = 0;
+        string key = string.Empty;
 
         string encryptedText = string.Empty;
 
         if (CaesarRadioButton.IsChecked == true)
         {
             mode = Mode.Caesar;
+            value = OpenShiftDialog();
+        }
+        else if (VigenereRadioButton.IsChecked == true)
+        {
+            mode = Mode.Vigenere;
+            key = OpenKeyDialog();
         }
 
         // Use the shift value (e.g., for encryption)
         switch (mode)
         {
             case Mode.Caesar:
-                Cipher cc = new Cipher();
-                encryptedText = cc.Encrypt(InputField.Text.ToCharArray(), value);
+                encryptedText = cc.EncryptCaesar(InputField.Text.ToCharArray(), value);
+                break;
+            case Mode.Vigenere:
+                encryptedText = cc.EncryptVigenere(InputField.Text.ToCharArray(), key);
                 break;
         }
         OutputField.Text = encryptedText;
@@ -127,7 +138,7 @@ public partial class MainWindow : Window
         {
             case Mode.Caesar:
                 Cipher cc = new Cipher();
-                decrytedText = cc.Decrypt(InputField.Text.ToCharArray(), value);
+                decrytedText = cc.DecryptCaesar(InputField.Text.ToCharArray(), value);
                 break;
         }
         OutputField.Text = decrytedText;
@@ -150,6 +161,24 @@ public partial class MainWindow : Window
            
         }
         return shiftValue;
+    }
+
+    private string OpenKeyDialog()
+    {
+
+        var keyDialog = new KeyInputDialog
+        {
+            Owner = this
+        };
+
+        string key = string.Empty;
+
+        if (keyDialog.ShowDialog() == true)
+        {
+            key = keyDialog.Key;
+        }
+
+        return key;
     }
 
     private void ResetButton_Click(object sender, RoutedEventArgs e)

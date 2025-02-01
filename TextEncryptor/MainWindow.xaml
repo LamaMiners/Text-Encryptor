@@ -30,7 +30,7 @@
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="252,68,0,0" VerticalAlignment="Top" Width="227" Grid.Column="1"/>
         <StackPanel HorizontalAlignment="Left" Height="44" Margin="267,96,0,0" VerticalAlignment="Top" Width="200" Grid.Column="1">
             <RadioButton x:Name="CaesarRadioButton" Content="Caesar Cypher" IsChecked="True"/>
-            <RadioButton Content="RadioButton" IsEnabled="False"/>
+            <RadioButton x:Name="VigenereRadioButton" Content="Vigenère Cypher"/>
             <RadioButton Content="RadioButton" IsEnabled="False"/>
         </StackPanel>
         <Border BorderBrush="#FF757575" BorderThickness="1" HorizontalAlignment="Left" Height="2" VerticalAlignment="Top" Width="744" CornerRadius="1,1,1,1" Margin="20,212,0,0" Grid.ColumnSpan="2"/>

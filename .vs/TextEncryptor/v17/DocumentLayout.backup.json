@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\keyinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\keyinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\keyinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\keyinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11F3FA6E-AED7-488B-A43D-B581C2F07509}|CaesarCipher\\CaesarCipher.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\caesarcipher\\cipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11F3FA6E-AED7-488B-A43D-B581C2F07509}|CaesarCipher\\CaesarCipher.csproj|solutionrelative:caesarcipher\\cipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\textencryptor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\textencryptor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\shiftinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\shiftinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\shiftinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\shiftinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\shiftinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\shiftinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\textencryptor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\textencryptor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|c:\\users\\pc\\documents\\github\\text-encryptor\\textencryptor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCA36F5-CB6C-4AA6-89DC-098D3C543938}|TextEncryptor\\TextEncryptor.csproj|solutionrelative:textencryptor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,27 +54,53 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyInputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\KeyInputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "TextEncryptor\\KeyInputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\KeyInputDialog.xaml.cs",
+              "RelativeToolTip": "TextEncryptor\\KeyInputDialog.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:37:47.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyInputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\KeyInputDialog.xaml",
+              "RelativeDocumentMoniker": "TextEncryptor\\KeyInputDialog.xaml",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\KeyInputDialog.xaml",
+              "RelativeToolTip": "TextEncryptor\\KeyInputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T14:37:19.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cipher.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\CaesarCipher\\Cipher.cs",
               "RelativeDocumentMoniker": "CaesarCipher\\Cipher.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\CaesarCipher\\Cipher.cs",
               "RelativeToolTip": "CaesarCipher\\Cipher.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwC4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T17:22:37.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ShiftInputDialog.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\ShiftInputDialog.xaml",
               "RelativeDocumentMoniker": "TextEncryptor\\ShiftInputDialog.xaml",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\ShiftInputDialog.xaml",
               "RelativeToolTip": "TextEncryptor\\ShiftInputDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-28T17:10:46.078Z"
+              "WhenOpened": "2025-01-28T17:10:46.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,26 +110,27 @@
               "RelativeDocumentMoniker": "TextEncryptor\\ShiftInputDialog.xaml.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\ShiftInputDialog.xaml.cs",
               "RelativeToolTip": "TextEncryptor\\ShiftInputDialog.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:10:04.024Z"
+              "WhenOpened": "2025-01-28T17:10:04.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TextEncryptor.csproj",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\TextEncryptor.csproj",
               "RelativeDocumentMoniker": "TextEncryptor\\TextEncryptor.csproj",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\TextEncryptor.csproj",
               "RelativeToolTip": "TextEncryptor\\TextEncryptor.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-28T17:03:15.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TextEncryptor\\MainWindow.xaml",
@@ -107,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TextEncryptor\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Text-Encryptor\\TextEncryptor\\MainWindow.xaml.cs",
               "RelativeToolTip": "TextEncryptor\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T18:56:05.244Z",
               "EditorCaption": ""
